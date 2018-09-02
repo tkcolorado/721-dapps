@@ -1,0 +1,17 @@
+{
+  "name": "721-dapps",
+  "version": "1.0.0",
+  "description": "tk08",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tk08",
+  "license": "MIT",
+  "devDependencies": {
+    "zeppelin-solidity": "^1.12.0"
+  }
+}
