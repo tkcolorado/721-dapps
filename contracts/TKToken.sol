@@ -2,7 +2,7 @@ pragma solidity ^0.4.21;
 
 import "zeppelin-solidity/contracts/token/ERC721/ERC721Token.sol";
 
-contract TKToken is ERC721Token("TKToken", "RHT") {
+contract TKToken is ERC721Token("TKToken", "TKT") {
 
 	mapping(uint256 => string) internal tokenIdToName;
 	mapping(string => uint256) internal nameToTokenId;
